@@ -8,6 +8,6 @@ UPDATE: The RL algorithm works correctly, I implemeted systematic experiments wi
 TODO:
 - [ ] Cleanup of comments
 - [ ] Plots
-- [ ] Compare theoretical results with experimental from [IBM Quantum Composer](https://quantum-computing.ibm.com/composer/files/new)
+- [X] Compare theoretical results with experimental from [IBM Quantum Composer](https://quantum-computing.ibm.com/composer/files/new)
 - [ ] Create runnable script
 - [ ] Policy learning: define early stop condition
